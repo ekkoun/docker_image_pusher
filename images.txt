@@ -1,2 +1,1 @@
-node:16-alpine
-alpine:latest
+apache/superset-cache:3.10-slim-bookworm
